@@ -22,26 +22,15 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[SITA Bag Manager](https://www.sita.aero/)**  
-  Leading baggage management and reconciliation solution providing real-time tracking, bag-to-passenger matching, custody transfer, and IATA Resolution 753 compliance across the journey.
-
-- **[Beumer CrisBag](https://www.beumergroup.com/)**  
-  Advanced baggage handling and software control systems for high-capacity airports, covering sorting, tracking, and operational management.
-
-- **[Vanderlande BAGWARE](https://www.vanderlande.com/)**  
-  Comprehensive baggage handling software suite supporting sorting, early bag storage, reconciliation, and end-to-end process control.
-
-- **[Glidepath](https://www.glidepathgroup.com/)**  
-  Baggage handling systems and control software focused on reliable sorting, tracking, and airport logistics solutions.
-
-- **[Leonardo Airport BHS](https://www.leonardo.com/)**  
-  Integrated baggage handling and security screening solutions with associated control and management software.
-
-- **[Daifuku Airport](https://www.daifuku.com/)**  
-  Full baggage handling systems and software (including Airflow, WebbView, and related modules) for sorting, tracking, and operational oversight.
-
-- **[Brock Solutions](https://www.brocksolutions.com/)**, **[Siemens Logistics](https://www.siemens-logistics.com/)**, **[Amadeus Baggage Reconciliation](https://amadeus.com/)**, **[RESA BRS](https://www.resa.aero/)**  
-  Additional strong platforms offering baggage reconciliation, handling control, tracking, and airport logistics software used by major airports and airlines worldwide.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[SITA Bag Manager](https://www.sita.aero/)** | Leading baggage management and reconciliation solution providing real-time tracking, bag-to-passenger matching, custody transfer, and IATA Resolution 753 compliance across the journey. | Custom / Contact Sales | N/A |
+| **[Beumer CrisBag](https://www.beumergroup.com/)** | Advanced baggage handling and software control systems for high-capacity airports, covering sorting, tracking, and operational management. | Custom / Contact Sales | N/A |
+| **[Vanderlande BAGWARE](https://www.vanderlande.com/)** | Comprehensive baggage handling software suite supporting sorting, early bag storage, reconciliation, and end-to-end process control. | Custom / Contact Sales | N/A |
+| **[Glidepath](https://www.glidepathgroup.com/)** | Baggage handling systems and control software focused on reliable sorting, tracking, and airport logistics solutions. | Custom / Contact Sales | N/A |
+| **[Leonardo Airport BHS](https://www.leonardo.com/)** | Integrated baggage handling and security screening solutions with associated control and management software. | Custom / Contact Sales | N/A |
+| **[Daifuku Airport](https://www.daifuku.com/)** | Full baggage handling systems and software (including Airflow, WebbView, and related modules) for sorting, tracking, and operational oversight. | Custom / Contact Sales | N/A |
+| **[Brock Solutions](https://www.brocksolutions.com/)**, **[Siemens Logistics](https://www.siemens-logistics.com/)**, **[Amadeus Baggage Reconciliation](https://amadeus.com/)**, **[RESA BRS](https://www.resa.aero/)** | Additional strong platforms offering baggage reconciliation, handling control, tracking, and airport logistics software used by major airports and airlines worldwide. | Custom / Contact Sales | N/A |
 
 ## Open-Source GitHub Projects
 
