@@ -34,16 +34,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 | Product | Description | Pricing | Free Tier Limit | Company Valuation/Revenue |
 |---------|-------------|---------|-----------------|---------------------------|
-| **[Siemens Logistics](https://www.siemens-logistics.com/)** | Baggage reconciliation, handling control, tracking, and airport logistics software. | Custom / Contact Sales | N/A | ~$100B (Siemens AG) |
-| **[Amadeus Baggage Reconciliation](https://amadeus.com/)** | Strong platforms offering baggage reconciliation and logistics software. | Custom / Contact Sales | N/A | ~$30B Valuation |
-| **[Leonardo Airport BHS](https://www.leonardo.com/)** | Integrated baggage handling and security screening solutions with associated control software. | Custom / Contact Sales | N/A | ~$15B Valuation |
-| **[Daifuku Airport](https://www.daifuku.com/)** | Full baggage handling systems and software for sorting, tracking, and operational oversight. | Custom / Contact Sales | N/A | ~$4B Valuation |
-| **[Vanderlande BAGWARE](https://www.vanderlande.com/)** | Comprehensive baggage handling software suite supporting sorting, early bag storage, and end-to-end process control. | Custom / Contact Sales | N/A | ~$2B+ Revenue |
-| **[SITA Bag Manager](https://www.sita.aero/)** | Leading baggage management and reconciliation solution providing real-time tracking, custody transfer, and IATA Resolution 753 compliance. | Custom / Contact Sales | N/A | ~$2B Revenue |
-| **[Beumer CrisBag](https://www.beumergroup.com/)** | Advanced baggage handling and software control systems for high-capacity airports. | Custom / Contact Sales | N/A | ~$1B Revenue |
-| **[Glidepath](https://www.glidepathgroup.com/)** | Baggage handling systems and control software focused on reliable sorting, tracking, and airport logistics solutions. | Custom / Contact Sales | N/A | ~$100M Revenue |
-| **[Brock Solutions](https://www.brocksolutions.com/)** | Baggage handling control, tracking, and airport logistics software used worldwide. | Custom / Contact Sales | N/A | ~$50M Revenue |
-| **[RESA BRS](https://www.resa.aero/)** | Baggage reconciliation software used by major airports and airlines. | Custom / Contact Sales | N/A | ~$50M Revenue |
+| **[Siemens Logistics](https://www.siemens-logistics.com/)** | Baggage reconciliation, handling control, tracking, and airport logistics software. | Custom (Based on hardware & annual bag volume) | No free tier | ~$100B (Siemens AG) |
+| **[Amadeus Baggage Reconciliation](https://amadeus.com/)** | Strong platforms offering baggage reconciliation and logistics software. | Custom (Per passenger/bag usage model) | No free tier | ~$30B Valuation |
+| **[Leonardo Airport BHS](https://www.leonardo.com/)** | Integrated baggage handling and security screening solutions with associated control software. | Custom (Enterprise license + hardware) | No free tier | ~$15B Valuation |
+| **[Daifuku Airport](https://www.daifuku.com/)** | Full baggage handling systems and software for sorting, tracking, and operational oversight. | Custom (Turnkey project pricing) | No free tier | ~$4B Valuation |
+| **[Vanderlande BAGWARE](https://www.vanderlande.com/)** | Comprehensive baggage handling software suite supporting sorting, early bag storage, and end-to-end process control. | Custom (Scalable by airport size & modules) | No free tier | ~$2B+ Revenue |
+| **[SITA Bag Manager](https://www.sita.aero/)** | Leading baggage management and reconciliation solution providing real-time tracking, custody transfer, and IATA Resolution 753 compliance. | Custom (Cloud/On-prem, based on flight volume) | No free tier | ~$2B Revenue |
+| **[Beumer CrisBag](https://www.beumergroup.com/)** | Advanced baggage handling and software control systems for high-capacity airports. | Custom (Project-based & SLA dependent) | No free tier | ~$1B Revenue |
+| **[Glidepath](https://www.glidepathgroup.com/)** | Baggage handling systems and control software focused on reliable sorting, tracking, and airport logistics solutions. | Custom (Tiered based on sorting capacity) | No free tier | ~$100M Revenue |
+| **[Brock Solutions](https://www.brocksolutions.com/)** | Baggage handling control, tracking, and airport logistics software used worldwide. | Custom (Enterprise software license) | No free tier | ~$50M Revenue |
+| **[RESA BRS](https://www.resa.aero/)** | Baggage reconciliation software used by major airports and airlines. | Custom (Subscription based on terminals) | No free tier | ~$50M Revenue |
 
 ## 💻 Open-Source GitHub Projects
 
