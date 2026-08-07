@@ -1,0 +1,22 @@
+<svg xmlns="http://svgjs.com/svgjs" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="100%" height="200" preserveAspectRatio="none" viewBox="0 0 1000 200">
+    <defs>
+        <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#1e3c72" />
+            <stop offset="100%" stop-color="#2a5298" />
+        </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#bg-grad)" rx="15" ry="15" />
+    
+    <text x="50%" y="45%" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
+        Awesome Baggage Management
+    </text>
+    <text x="50%" y="75%" font-family="Arial, sans-serif" font-size="24" fill="#a8c0ff" text-anchor="middle" dominant-baseline="middle">
+        The Ultimate Ecosystem for Airport Logistics
+    </text>
+
+    <g transform="translate(100, 150)">
+        <circle cx="0" cy="0" r="10" fill="#f39c12">
+            <animate attributeName="cx" from="-100" to="900" dur="4s" repeatCount="indefinite" />
+        </circle>
+    </g>
+</svg>
