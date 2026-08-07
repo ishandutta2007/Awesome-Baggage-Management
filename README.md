@@ -1,6 +1,6 @@
 # Awesome-Baggage-Management
 
-# Top Baggage Management Tools Ecosystem
+## Top Baggage Management Tools Ecosystem
 
 **Curated List of SaaS/Commercial Products & Open-Source GitHub Projects**  
 *Focused on Baggage Handling Systems (BHS), Baggage Reconciliation Systems (BRS), Tracking, Sorting & Airport Logistics*  
